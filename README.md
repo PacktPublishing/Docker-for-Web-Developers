@@ -27,11 +27,11 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video course is a step-by-step guide, with each section containing videos that take you closer and closer to Docker mastery. Each stride is carefully explained, so you are sure to go a long way.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Linux kernel version 3.10 or higher
-CS Docker Engine 1.13, or EE Daemon 17.03 and higher
-8.00 GB of RAM for manager nodes or nodes running DTR
-4.00 GB of RAM for worker nodes
-3.00 GB of available disk space
+Linux kernel version 3.10 or higher<br/>
+CS Docker Engine 1.13, or EE Daemon 17.03 and higher<br/>
+8.00 GB of RAM for manager nodes or nodes running DTR<br/>
+4.00 GB of RAM for worker nodes<br/>
+3.00 GB of available disk space<br/>
 A static IP address
 
 ## Related Products
